@@ -11,19 +11,19 @@ I did some research for new designs base on the Wade's and i see the that Luzbot
 
 I am a blender Hardcoreuser, if you dont like it deal with it!
 I started to export de Freecad version of luzbot with all the parts, then export it in STL, and in blender i have cleaned up all the parts i dont need, and saved (\BASE\Extruder_base_luzbot_TAZ6.blend).
-![](\images\BASE_image.png)
+![](images\BASE_image.png)
 
 ### Changes
 
-![](\images\Corte_inicial.png)
+![](images\Corte_inicial.png)
 I want to close the gap (1) in the extruder most possible, the luzbot use a PTFE tube that i will use to, but i cant reliable think that the tube is locking in the place, i have to make a way to fix the tube.
 
 First step is done!
 I make the easy way possible fill, add a cube and then cavity for the bearing and for the M8 Bolt.
-![](\images\Primeira_parte_fill.png)
+![](images\Primeira_parte_fill.png)
 If you want to test it on your TAZ6 you can print it and test it! then say to me how it preforms ! (maZE_LUZ_Extruder.blend)
 
 To use on maze i dont need any monting holes then i have cut it out!
-![](\images\final.png)
+![](images\final.png)
 1- Close the original gap, i think i cant use these for TPU because is for a bowden, but i want to print Nylon and others more flexy filaments. 
 
