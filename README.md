@@ -33,7 +33,8 @@ It was very easy to assemble all the parts, the base model from luzbot is very m
 
 I have printed the main body parts in PETG and for style the gears in RED PLA (i didn't have PETG in RED)
 
-![](images\Foto_real_1.jpg)
+![](images/Foto_real_1.jpg)
+![](images/Foto_real_2.jpg)
 
 
 
@@ -42,6 +43,6 @@ I have printed the main body parts in PETG and for style the gears in RED PLA (i
 * 1 - Close the GAP in the M4 nut is to wide
 * 2 / 3 - The model as a Chanfer to center the M3 bolt, i think is better dont have that feature.
 
-In the (images) files you have a video to see it working!
+In the files you have a [video to see it working!](https://github.com/3devangelist/Gear-Extruder-MAZE/blob/master/images/video_real.mp4)
 
 If you make one Show to me!
