@@ -43,6 +43,6 @@ I have printed the main body parts in PETG and for style the gears in RED PLA (i
 * 1 - Close the GAP in the M4 nut is to wide
 * 2 / 3 - The model as a Chanfer to center the M3 bolt, i think is better dont have that feature.
 
-In the files you have a [video to see it working!](https://github.com/3devangelist/Gear-Extruder-MAZE/blob/master/images/video_real.mp4)
+In the files you have a [video to see it working!](https://youtu.be/d04AriiR1MQ)
 
 If you make one Show to me!
