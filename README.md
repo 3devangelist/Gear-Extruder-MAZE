@@ -27,3 +27,21 @@ To use on maze i dont need any monting holes then i have cut it out!
 ![4](images/final.png)
 1- Close the original gap, i think i cant use these for TPU because is for a bowden, but i want to print Nylon and others more flexy filaments. 
 
+## Printing and Assemble Notes!
+
+It was very easy to assemble all the parts, the base model from luzbot is very more polish that the original Greg's one!
+
+I have printed the main body parts in PETG and for style the gears in RED PLA (i didn't have PETG in RED)
+
+![](images\Foto_real_1.jpg)
+
+
+
+### Improvements
+
+* 1 - Close the GAP in the M4 nut is to wide
+* 2 / 3 - The model as a Chanfer to center the M3 bolt, i think is better dont have that feature.
+
+In the (images) files you have a video to see it working!
+
+If you make one Show to me!
